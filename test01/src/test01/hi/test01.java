@@ -14,6 +14,7 @@ public class test01 {
 			a=1;
 			a+=1;
 		}
+		System.out.println(10);
 		
 	}
 
