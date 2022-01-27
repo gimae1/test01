@@ -6,6 +6,10 @@ public class test01 {
 		// TODO Auto-generated method stub
 		int a;
 		String name;
+		//이름 부여
+		name="hyelin";
+		System.out.println(name);
+		
 	}
 
 }
