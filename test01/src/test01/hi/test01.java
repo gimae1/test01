@@ -9,6 +9,11 @@ public class test01 {
 		//이름 부여
 		name="hyelin";
 		System.out.println(name);
+		//
+		for(int i=0; i<10; i++) {
+			a=1;
+			a+=1;
+		}
 		
 	}
 
